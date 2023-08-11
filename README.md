@@ -22,7 +22,7 @@ true:
 ```
 
 # How many samples to ensure 1 in a million error?
-Assume the worst case: we are testing 561for primality. It has a 57.04% of being a Fermat's witness for any sample `n`.
+Assume the worst case: we are testing 561 for primality. It has a 57.04% of being a Fermat's witness for any sample `n`.
 
 Assuming independent samples:
 ```
