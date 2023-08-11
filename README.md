@@ -43,5 +43,5 @@ So if I have the math right, you need to take 25 samples in the worst case to ha
 # Comments
 Interesting how these factors recur:
 - 11: 341 (11 * 31), 561 (3 * 11 * 17)
-- 13: 91 (13 * 7), 65 (5 * 13), 481 (13 * 37)
-- 37: 703 (19 * 37), 481 (13 * 37)
+- 13: 65 (5 * 13), 91 (13 * 7), 481 (13 * 37)
+- 37: 481 (13 * 37), 703 (19 * 37)
