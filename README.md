@@ -4,7 +4,7 @@ Test out the Fermat's little theorem on prime numbers.
 # Results
 Composite numbers less than 1000 with the highest fraction of values that have:
 ```
-((n ** (p - 1)) %p == 1
+(n ** (p - 1)) %p == 1
 ```
 
 true:
